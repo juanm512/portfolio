@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.725b3406.css",
-    "main.js": "/portfolio/static/js/main.37d5e6cc.js",
+    "main.js": "/portfolio/static/js/main.c52f540b.js",
+    "static/media/donateloImg.png": "/portfolio/static/media/donateloImg.fb765ad6837c1b807846.png",
     "static/media/giftslistImg.png": "/portfolio/static/media/giftslistImg.8ae130a8070935a22c78.png",
     "static/media/calendariointeractivoImg.png": "/portfolio/static/media/calendariointeractivoImg.fe9a39322a15e30afc7e.png",
     "static/media/portfolioImg.png": "/portfolio/static/media/portfolioImg.5778e768d5e3c61a8dcc.png",
     "static/media/Carta.jpg": "/portfolio/static/media/Carta.9b919ccf5aedb31f46ab.jpg",
-    "static/media/logo.jpeg": "/portfolio/static/media/logo.2b73f630162c7cfdf317.jpeg",
     "static/media/takearisk.png": "/portfolio/static/media/takearisk.3814432d03c93dc912ec.png",
     "static/media/wordlecloneImg.jpg": "/portfolio/static/media/wordlecloneImg.5ca384ca5e8f1500e372.jpg",
     "static/media/guesspokemonImg.png": "/portfolio/static/media/guesspokemonImg.9188845078d675a3c9e7.png",
     "index.html": "/portfolio/index.html",
     "main.725b3406.css.map": "/portfolio/static/css/main.725b3406.css.map",
-    "main.37d5e6cc.js.map": "/portfolio/static/js/main.37d5e6cc.js.map"
+    "main.c52f540b.js.map": "/portfolio/static/js/main.c52f540b.js.map"
   },
   "entrypoints": [
     "static/css/main.725b3406.css",
-    "static/js/main.37d5e6cc.js"
+    "static/js/main.c52f540b.js"
   ]
 }
